@@ -1,0 +1,55 @@
+body
+{
+background-image: linear-gradient(120deg,#3498db,#8e44ad);
+text-align: center;
+}
+table
+{
+margin-top: 300px;
+margin-left: auto;
+margin-right: auto;
+background-color: rgba(175, 170, 170, 0.767);
+border-radius: 5%;
+ 
+}
+
+#output
+{
+    outline: none;
+    width: 220px;
+    position: relative;
+    top: 150px;
+    border-radius: 7%;
+    border-width: 0px;
+    background-color: #aeb2b3;
+    height:50px ;
+}
+#first,#second
+{
+    opacity: 1;
+    outline: none;
+    width: 220px;
+    border-radius: 7%;
+    border-width: 0px;
+    background-color: #aeb2b3;
+    height:50px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+button
+{
+    opacity: 1;
+    position: relative;
+    top: -20px;
+    background-color: Transparent;
+    border: none;
+    cursor: pointer;
+    outline: none;
+   
+}
+#first , #second ,#output
+{
+ text-align: center;
+}
+
+

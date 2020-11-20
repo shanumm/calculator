@@ -52,7 +52,7 @@ button
     border: none;
     cursor: pointer;
     outline: none;
-   
+   padding-bottom:1rem;
 }
 #first , #second ,#output
 {

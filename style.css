@@ -6,7 +6,7 @@ body
 {
 background: rgb(34,193,195);
 background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(11,230,95,1) 100%);
-font-size:1.5rem;
+font-size:1.3rem;
 
 text-align: center;
 }
@@ -52,7 +52,6 @@ button
     border: none;
     cursor: pointer;
     outline: none;
-   padding-top:1rem;
 }
 #first , #second ,#output
 {

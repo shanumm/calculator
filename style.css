@@ -1,6 +1,8 @@
 body
 {
-background-image: linear-gradient(120deg,#3498db,#8e44ad);
+background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(11,230,95,1) 100%);
+
 text-align: center;
 }
 table

@@ -6,7 +6,7 @@ body
 {
 background: rgb(34,193,195);
 background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(11,230,95,1) 100%);
-font-size:2rem;
+font-size:1.2rem;
 
 text-align: center;
 }
